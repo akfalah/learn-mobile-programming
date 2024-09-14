@@ -62,7 +62,7 @@ Terjadi error pada variabel `test` karena sudah dideklarasikan dan pada kondisi 
   
   **Penjelasan**: Terdapa `if statement` dengan kondisi jika `test2 == "true"`, maka akan menjalankan `print("Kebenaran");`
   
-- Mengganti tipe data variabel menjadi `bool`
+- Mengganti tipe data variabel menjadi `bool`\
   ![kode langkah 3 fixed cara 2](img/praktikum_1/kode-langkah-3-fixed-2.png)
 
   ![run langkah 3 fixed cara 2](img/praktikum_1/run-langkah-3-fixed-2.png)
@@ -166,6 +166,8 @@ Terdapat error pada penulisan variabel `index`, `if`, dan `else`. Pada statement
 ## **Soal 2**
 Buatlah sebuah program yang dapat menampilkan bilangan prima dari angka 0 sampai 201 menggunakan Dart. Ketika bilangan prima ditemukan, maka tampilkan nama lengkap dan NIM Anda.
 
+**Kode program:**\
 ![kode tugas no 2](img/kode-tugas-no-2.png)
 
+**Hasil run program:**\
 ![run tugas no 2](img/run-tugas-no-2.png)
