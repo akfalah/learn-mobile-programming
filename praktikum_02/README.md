@@ -2,10 +2,10 @@
 
 ## Soal 1
 Kode program:
-![Kode program Soal 1](/screenshoot/image_soal1.png)
+![Kode program Soal 1](./screenshoot/image_soal1.png)
 
 Hasil run program:
-![Hasil run kode program Soal 1](/screenshoot/image_run_soal1.png)
+![Hasil run kode program Soal 1](./screenshoot/image_run_soal1.png)
 
 ## Soal 2
 Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan!\
